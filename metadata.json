@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Pajak UMKM",
+  "description": "Prototype administrasi pajak UMKM sederhana, modern, dan interaktif untuk simulasi hitung dan lapor pajak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
